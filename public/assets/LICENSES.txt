@@ -1,0 +1,20 @@
+DEEP SALVAGE: where the files in this folder come from
+
+Models (models/*.glb)
+  Own work, modelled in Blender by the scripts in art/ (sub.py, wrecks.py, nature.py).
+
+Textures (tex/)
+  sand.jpg, sand_n.jpg    Poly Haven, sand-01, CC0 1.0, polyhaven.com
+  rock.jpg, rock_n.jpg    Poly Haven, rock-face-03, CC0 1.0, polyhaven.com
+
+Font (fonts/)
+  Rubik.ttf               Rubik, SIL Open Font License 1.1, fonts.google.com/specimen/Rubik
+
+Music (sfx/music_reef.mp3, sfx/music_deep.mp3)
+  Own work, synthesised by art/sound.py. No samples, no paid service.
+
+Sounds (sfx/*.mp3)
+  Own work, synthesised by art/sound.py, except these short hits, which come from the
+  SoundFX Library on OpenGameArt.org, CC0 1.0: metal_hit_01, metal_hit_02, metal_hit_07,
+  metal_clang_03, bubbles_01, bubbles_03, ui_click_01, page_flip_03, door_close_01
+  (edited into grab, clunk, thud, bubbles, bubbles2, click, page, dock).

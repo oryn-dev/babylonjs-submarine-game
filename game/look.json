@@ -1,0 +1,44 @@
+{
+  "sky": {
+    "top": "#8fe9e2",
+    "horizon": "#1f9aa8",
+    "bottom": "#0a4658"
+  },
+  "environment": {
+    "intensity": 0.75
+  },
+  "sun": {
+    "direction": [
+      0.22,
+      -0.93,
+      -0.29
+    ],
+    "color": "#fff6dc",
+    "intensity": 3.4
+  },
+  "ambient": {
+    "sky": "#cfeeea",
+    "ground": "#0d4a5c",
+    "intensity": 0.7
+  },
+  "fog": {
+    "color": "#1f9aa8",
+    "density": 0
+  },
+  "toneMapping": "aces",
+  "exposure": 1.15,
+  "contrast": 1.18,
+  "saturation": 1.12,
+  "shadows": {
+    "enabled": false
+  },
+  "bloom": {
+    "enabled": true,
+    "threshold": 0.72,
+    "weight": 0.38,
+    "kernel": 64
+  },
+  "vignette": 0.42,
+  "sharpen": 0.15,
+  "grain": 0
+}
